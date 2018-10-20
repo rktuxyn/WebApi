@@ -1,5 +1,4 @@
-# WebApi
-Web Api C#
+# Web Api C#
 <b>1) Map the route for the web api </b>
 ```c#
 using Owin;
